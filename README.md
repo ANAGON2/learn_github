@@ -1,2 +1,2 @@
-# learn_github
-# my-project
+#learning
+#git and github
